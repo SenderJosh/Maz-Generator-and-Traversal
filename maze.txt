@@ -1,0 +1,15 @@
+S * * * * * * * * * * * W E * 
+W W * W W * W W * W W * W W * 
+W W * W W * * W * W W * * * * 
+W W * W W W W W * W W W * W W 
+W W * W W * * * * W W W * W * 
+W W * W W * W W W W W W * W * 
+W W * W W * W W W W W W * W * 
+W * * W W * * * * W W W * * * 
+W * W W W W W W * W W W W W W 
+W * W W W * * W * W W W W W W 
+W * W W W * W W * W W W W W W 
+W * W W W * * * * W W W W W W 
+W * W W W W W W W W W W W W W 
+W * W W W W W W W W W W W W W 
+* * W W W W W W W W W W W W W 
