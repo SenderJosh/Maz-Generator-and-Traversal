@@ -58,10 +58,12 @@ public class Main extends JFrame{
 		int comp = 15;
 		MazeGenerator mg = new MazeGenerator(comp, comp-1);
 		mg.generateMaze();
-		try {
+		try
+		{
 			mg.saveToFile(new File("maze.txt"));
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
+		}
+		catch (IOException e)
+		{
 			e.printStackTrace();
 		}
 		final Maze m = new Maze(rows,cols, "maze.txt");
@@ -87,6 +89,8 @@ public class Main extends JFrame{
 		frame.pack();
 		frame.setVisible(true);
 		m.findExitUsingQueue();
+		//m.findExitUsingRecursion(m.findStart());
+		//m.findExitUsingStack();
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}
 
